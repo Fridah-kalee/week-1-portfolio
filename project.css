@@ -10,8 +10,15 @@ body{
 }
 .intro{
     margin: 10%;
-    font-size: 20px;
+    font-size: 30px;
 
-}.intro h1{
-    color: blue;
+}
+.common{
+    color: red;
+
+}
+.intro button{
+    background-color: red;
+    color:  white;
+    border: 2px solid red;
 }
