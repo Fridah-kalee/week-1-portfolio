@@ -32,9 +32,10 @@ body{
 }
 
 .menu{
-    width: 400px;
+    width: 500px;
     float: left;
-    height: 70px;
+    height: 120px;
+    
 }
 
 ul{
@@ -49,6 +50,17 @@ ul li{
     margin-left: 65px;
     font-size: 20px;
     float: left;
+}
 
+ul li a{
+    text-decoration-color: none;
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.5s ease-in-out;
+}
+
+ul li a:hover{
+    color:yellow;
 }
 
