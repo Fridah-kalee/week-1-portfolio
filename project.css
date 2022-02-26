@@ -44,3 +44,11 @@ ul{
     align-items: center;
 }
 
+ul li{
+    list-style: none;
+    margin-left: 65px;
+    font-size: 20px;
+    float: left;
+
+}
+
