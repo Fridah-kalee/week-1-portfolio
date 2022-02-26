@@ -23,7 +23,7 @@ body{
 }
 
 .logo{
-    color: orangered;
+    color: hotpink;
     font-size: 35px;
     font-family: Arial;
     padding-left: 20px;
@@ -32,9 +32,10 @@ body{
 }
 
 .menu{
-    width: 500px;
+    width: 400px;
     float: left;
-    height: 120px;
+    height: 100px;
+    padding-top: 10px;
     
 }
 
@@ -54,13 +55,33 @@ ul li{
 
 ul li a{
     text-decoration-color: none;
-    color: white;
+    color: hotpink;
     font-family: Arial;
     font-weight: bold;
     transition: 0.5s ease-in-out;
 }
 
 ul li a:hover{
-    color:yellow;
+    color:white;
+}
+
+.search{
+    width: 310px;
+    float: left;
+    margin-left: 250px;
+}
+.srch{
+    font-family: Verdana;
+    width: 180px;
+    height: 35px;
+    background: white;
+    border: 1px solid white;
+    margin-top: 10px;
+    border-right: none;
+    font-size: 15px;
+    float: left;
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-bottom-left-radius: 5px;
 }
 
