@@ -156,3 +156,8 @@ ul li a:hover{
     background-color: white;
 
 }
+
+.content span{
+    color: red;
+    font-size: 80px;
+}
