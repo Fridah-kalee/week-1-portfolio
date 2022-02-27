@@ -1,77 +1,48 @@
 body{
-    background-color: gainsboro;
+    background-image: ("");
      background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0px;
     padding: 0px;
-
-}
-ul{
-    list-style: none;
-}
-a{
-    text-decoration: none;
-}
-
-
-nav{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    text-transform: uppercase;
-    font-weight: 600;
-    letter-spacing: 2px;
-    font-family: Calibri;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    box-sizing: border-box;
-    padding: 10px 50px;
-    background-color: skyblue;
-    box-shadow: 2px 2px 12px rgba(0,0,0,0,0.5);
-    z-index: 1;
-}
-
-#main{
-    width: 100%;
-    height: 100vh;
-    box-sizing: border-box;
-    background-color: #edf1ed;
-}
-.menu{
-    display: flex;
-}
-
- .menu li a{
-     padding: 10px 15px;
-     color: red;
-     font-size: 20px;
- } 
- 
- .lang{
-     color: red;
- }
-
-.logo{
-    font-size: 25px;
-    font-weight: bold;
-    color: red;
-    font-family: Verdana;
-
-}
-
-.menu li a:hover,
-.active{
-    background-color: white;
-    color: black;
-    font-weight: 700;
-    transition: all ease 0.4s;
 }
 #intro-image{
     float: right;
     height: 70vh;
-    margin-top: 5%;
-    margin-right: 5%;
+
 }
+.intro{
+    margin: 15%;
+}
+.red{
+    color: red;
+}
+.intro button{
+    background-color: red;
+    color: white;
+    border: 2px solid red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
