@@ -1,0 +1,19 @@
+.menubar-mobile{
+    position:fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+
+}
+@media screen and(max-width:780px) {
+    .menubar-mobile{
+        display: block;
+    }
+    
+}
+.menubar-mobile-desktop{
+    background: coral;
+}
+.menubar-desktop{
+    display: none;
+}
