@@ -2,6 +2,7 @@
 This is a portfolio landing page that showcases my proffessional skills.
 ### By Fridah Kalee , 26/02/2022
 ## Table of contents
+This is alist of what my project consists:
 *Description
 *Setup and Installation Requirements
 *Technology used
